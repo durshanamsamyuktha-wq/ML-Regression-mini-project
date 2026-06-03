@@ -1,7 +1,5 @@
 # ML-Regression-mini-project
 # Mini_Project
-Here’s a **clean, professional README.md** you can directly use for your GitHub project 👇
-
 ---
 
 ## ✅ **README.md Content**
@@ -110,7 +108,8 @@ Own point predictions: [450000.78]
 💼 Role: Data Analyst & ML Engineer
 
 ---
-
+## 🔗 Connect & Explore
+Render link: https://ml-regression-mini-project-1.onrender.com
 ## 📌 Future Enhancements
 
 * 🔹 Deploy using Flask (Web App)
